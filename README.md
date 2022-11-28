@@ -8,6 +8,7 @@ Cristian Silva1 Saad Chinoy1 Pramodya Saumyamali 2
 - [@Cris Silva](https://github.com/TheCrisSilva)
 - Saad Chinoy
 - Pramodya Saumyamali
+- Aravinth Panch
 
 ## Acknowledgements
 
